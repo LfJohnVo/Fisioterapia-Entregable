@@ -1,0 +1,3 @@
+base: u852171661_nutri
+usuario: u852171661_admin
+pass: Administrador1

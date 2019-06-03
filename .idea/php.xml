@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/lib_comp/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/lib_comp/vendor/markbaker/complex" />
+      <path value="$PROJECT_DIR$/lib_comp/vendor/markbaker/matrix" />
+      <path value="$PROJECT_DIR$/lib_comp/vendor/phpoffice/phpspreadsheet" />
+      <path value="$PROJECT_DIR$/lib_comp/vendor/composer" />
+      <path value="$PROJECT_DIR$/lib_comp/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/lib_comp/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/lib_comp/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/lib_comp/vendor/phenx/php-svg-lib" />
+    </include_path>
+  </component>
+</project>
